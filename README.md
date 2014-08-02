@@ -2,6 +2,10 @@
 
 This Flask application provides an interface to show all of the Oxford Flood Network sensors that are active, and their current status.
 
+## Status
+
+Not currently developed - a fork was made from Sushack, but the full IoT stack needs to be re-implemented before this will function. 
+
 ## Installation
 
 First clone this repository to your computer somewhere, such as ~/oxfloodnetweb/
